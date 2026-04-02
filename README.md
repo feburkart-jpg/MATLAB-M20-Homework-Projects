@@ -2,7 +2,7 @@
 The attatched files summarize my work in UCLA's introductory MATLAB class, designed for engineering majors. The projects demonstrate my competency with fundemental MATLAB
 concepts, and the Final Project demonstrates my ability to apply MATLAB concepts to a cohesive, project. 
 
-[Homework 0](main.Burkart_HW0.m) : Basic MATLAB math functions. 
+[Homework 0](Burkart_HW0.m) : Basic MATLAB math functions. 
 Homework 1 : Concatenating strings and Perimeter Estimation
 Homework 2 : Binary Conversion, Tax Slab Calculation and  Modified Neighbor Identification
 Homework 3 : Golden Ratio Calculation, and Pocket change optimization
