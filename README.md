@@ -1,4 +1,4 @@
-# MATLAB UCLA course (M20) homeowork and Final Project
+# Simulation of Microstructure Evolution and Grain Growth Using Cellular Automata in MATLAB
 The attatched files summarize my final project at UCLA's introductory MATLAB course, designed for engineering majors. The project demonstrates my competency with fundemental MATLAB concepts, and s my ability to apply them to a cohesive project. 
 
 [Final Project](Burkart_Final_Project_Interactive.m):
