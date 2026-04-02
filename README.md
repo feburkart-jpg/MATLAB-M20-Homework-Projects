@@ -7,11 +7,19 @@ This project implements a 2D simulation of microstructure evolution during annea
 
 
 [Homework 0](Burkart_HW0.m) : Basic MATLAB math functions. 
+
 [Homework 1](Burkart_HW1.m) : Concatenating strings and Perimeter Estimation
+
 [Homework 2](Burkart_HW2.m) : Binary Conversion, Tax Slab Calculation and  Modified Neighbor Identification
+
 [Homework 3](Burkart_HW3.m) : Golden Ratio Calculation, and Pocket change optimization
+
 [Homework 4](Burkart_HW4.m) : Bilt Credit Card 1.0, Bilt Credit Card 2.0, Bilt Credit Card 2.0.1
+
 [Homework 5](Burkart_HW5.m) : Recursive Function drawing Koch triangle 
+
 [Homework 6](Burkart_HW6.m) : Game of Life Simulation and Euler-Bernoulli Beam Bending
+
 [Homework ](Burkart_HW7.m) : Mixed Data in Cell arrays and structs, applied
+
 [Homework 8](Burkart_HW8.m) : Data Set Plotting, Koch Snowflake video
